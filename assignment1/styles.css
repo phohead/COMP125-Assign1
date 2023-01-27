@@ -1,0 +1,68 @@
+/**
+Student Name: Wilson Yang
+Student Number: 301195179
+**/
+
+#entire-page {
+    background-color: #d9d9d9;
+    max-width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+#content {
+    position: relative;
+    background-color: #f2f2f2;
+    text-align: center;
+    height: 160px;
+    width: 60%;
+    border-radius: 20px;
+}
+
+#heading {
+    position: relative;
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 55px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: 1rem;
+}
+
+tr {
+    margin: 1rem;
+}
+
+table {
+    padding: 1px;
+    max-width: 60%; 
+    position: relative;
+    background-color: #f2f2f2;
+    margin-top: 2.6rem;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+input {
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+#submit-button {
+    position: relative;
+    border: none;
+    padding: 6px 6px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #f2f2f2;
+}
+
